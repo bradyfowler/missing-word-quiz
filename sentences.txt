@@ -1,0 +1,5 @@
+A whole number is called an <integer>
+A number with a decimal point is called a <float>
+Text is called a <string>
+IDEs commonly have a <debugger> to assist in identifying errors
+The environment where the user can write code is called the <shell>
